@@ -3,10 +3,3 @@ playground/
 .DS_Store
 coverage/
 coverage.html
-data.trie
-*.js.map
-use.trie
-use.json
-.nyc_output
-indic.trie
-indic.json

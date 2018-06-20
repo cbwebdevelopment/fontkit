@@ -4,8 +4,6 @@ playground/
 coverage/
 coverage.html
 data.trie
-/index.js
-/base.js
 *.js.map
 use.trie
 use.json
